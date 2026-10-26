@@ -1,13 +1,13 @@
 # Hi, I'm Sajjadur Rahman 👋
 
 <p align="center">
-  <img src="./Sajjadur.jpg" alt="Sajjadur Rahman - Profile Picture" width="180" height="180" style="border-radius: 50%;" />
+  <img src="./github-banner.png" alt="Sajjadur Rahman - Developer Banner" width="100%" />
 </p>
 
-<h3 align="center">Junior Frontend Developer | React.js | JavaScript</h3>
+<h3 align="center">Junior Frontend Developer | React.js | MERN Stack Learner</h3>
 
 <p align="center">
-  Computer Science and Engineering Graduate from Bangladesh 🇧🇩
+  Building responsive websites and learning something new every day.
 </p>
 
 <p align="center">
