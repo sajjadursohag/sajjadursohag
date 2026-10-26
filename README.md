@@ -1,5 +1,64 @@
 # Hi, I'm Sajjadur Rahman 👋
 
+<p align="center">
+  <img src="./profile.png" alt="Sajjadur Rahman - Profile Picture" width="180" height="180" style="border-radius: 50%;" />
+</p>
+
+<h3 align="center">Junior Frontend Developer | React.js | JavaScript</h3>
+
+<p align="center">
+  Computer Science and Engineering Graduate from Bangladesh 🇧🇩
+</p>
+
+<p align="center">
+  <a href="https://github.com/sajjadursohag">
+    <img src="https://img.shields.io/badge/GitHub-sajjadursohag-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 CSE Graduate, State University of Bangladesh
+- 💻 Passionate about frontend web development
+- 🌱 Learning React.js, JavaScript, and the MERN stack
+- 🚀 Building practical projects to improve my development skills
+- 🎯 Looking for opportunities as a Junior Frontend Developer
+
+## 🛠️ Skills
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+- 📚 [English Dictionary](https://english-dictionary7.netlify.app/)
+- 🖼️ [Image Gallery](https://sajjadursohag.github.io/HorizonTechX_Image-Gallery/#)
+- 🧮 [Calculator](https://sajjadursohag.github.io/HorizonTechX_Calculator/)
+- 💳 [Payoo Mobile App](https://payoomobileap.netlify.app/)
+- 🏢 [G3 Architects](https://sajjadursohag.github.io/g3-architects-website/)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajjadursohag&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadursohag&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+# Hi, I'm Sajjadur Rahman 👋
+
 ### Junior Frontend Developer | React.js | JavaScript | MERN Stack Learner
 
 I'm a Computer Science and Engineering graduate passionate about building responsive, user-friendly web applications. I'm currently improving my frontend development skills and working on practical projects using modern web technologies.
