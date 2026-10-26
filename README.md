@@ -1,158 +1,145 @@
-# Hi, I'm Sajjadur Rahman 👋
-
 <p align="center">
   <img src="./github-banner.png" alt="Sajjadur Rahman - Developer Banner" width="100%" />
 </p>
 
-<h3 align="center">Junior Frontend Developer | React.js | MERN Stack Learner</h3>
-
-<p align="center">
-  Building responsive websites and learning something new every day.
-</p>
-
-<p align="center">
-  <a href="https://github.com/sajjadursohag">
-    <img src="https://img.shields.io/badge/GitHub-sajjadursohag-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 CSE Graduate, State University of Bangladesh
-- 💻 Passionate about frontend web development
-- 🌱 Learning React.js, JavaScript, and the MERN stack
-- 🚀 Building practical projects to improve my development skills
-- 🎯 Looking for opportunities as a Junior Frontend Developer
-
-## 🛠️ Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Firebase
-- **Tools:** Git, GitHub, VS Code
-
-## 🚀 Featured Projects
-
-- 📚 [English Dictionary](https://english-dictionary7.netlify.app/)
-- 🖼️ [Image Gallery](https://sajjadursohag.github.io/HorizonTechX_Image-Gallery/#)
-- 🧮 [Calculator](https://sajjadursohag.github.io/HorizonTechX_Calculator/)
-- 💳 [Payoo Mobile App](https://payoomobileap.netlify.app/)
-- 🏢 [G3 Architects](https://sajjadursohag.github.io/g3-architects-website/)
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajjadursohag&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadursohag&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-# Hi, I'm Sajjadur Rahman 👋
+# Hi there, I'm Sajjadur Rahman 👋
 
 ### Junior Frontend Developer | React.js | JavaScript | MERN Stack Learner
 
-I'm a Computer Science and Engineering graduate passionate about building responsive, user-friendly web applications. I'm currently improving my frontend development skills and working on practical projects using modern web technologies.
+I'm a Computer Science and Engineering graduate passionate about building responsive, interactive, and user-friendly web applications.
 
-- 🔭 Currently working on frontend development projects
-- 🌱 Learning React.js, JavaScript, Node.js, Express.js, and MongoDB
-- 💻 Interested in responsive web design, API integration, and full-stack development
-- 🎯 Goal: Start my professional career as a Junior Frontend Developer
-- 📍 Based in Dhaka, Bangladesh
-- 📫 GitHub: [@sajjadursohag](https://github.com/sajjadursohag)
+I enjoy turning ideas into functional digital experiences using modern web technologies. Through hands-on projects and continuous learning, I'm strengthening my frontend development skills and expanding my knowledge of full-stack web development.
+
+My goal is to write clean, maintainable code and build practical applications that solve real-world problems.
+
+---
+
+## 🚀 What I Build
+
+- **Frontend Applications** — Responsive websites and interactive user interfaces using React.js, JavaScript, HTML, and CSS.
+- **API-Integrated Applications** — Dynamic web applications that fetch and display data from APIs.
+- **Responsive Web Design** — User-friendly layouts for desktop, tablet, and mobile devices.
+- **Interactive Projects** — Practical applications that demonstrate JavaScript logic, DOM manipulation, and user interactions.
+- **Full-Stack Learning Projects** — Exploring backend development, authentication, databases, and the MERN stack.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Languages**
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=flat-square&logo=daisyui&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-### 1. English Dictionary
-A web application for looking up English words and exploring their meanings.
+### 📚 English Dictionary
+An interactive web application for searching English words and retrieving word information through an API.
 
-- **Technologies:** HTML, CSS, JavaScript, API
-- **Live Demo:** https://english-dictionary7.netlify.app/
+- **Technologies:** HTML, CSS, JavaScript, API integration
+- **Live Demo:** [View Project](https://english-dictionary7.netlify.app/)
 
-### 2. HorizonTechX Image Gallery
-An image gallery project developed as part of my frontend development practice.
+### 🖼️ HorizonTechX Image Gallery
+A frontend project focused on displaying images and practicing interactive web development.
 
 - **Technologies:** HTML, CSS, JavaScript
-- **Live Demo:** https://sajjadursohag.github.io/HorizonTechX_Image-Gallery/#
+- **Live Demo:** [View Project](https://sajjadursohag.github.io/HorizonTechX_Image-Gallery/#)
 
-### 3. HorizonTechX Calculator
+### 🧮 HorizonTechX Calculator
 A calculator application built to practice JavaScript logic and user interactions.
 
 - **Technologies:** HTML, CSS, JavaScript
-- **Repository:** https://github.com/sajjadursohag/HorizonTechX_Calculator
-- **Live Demo:** https://sajjadursohag.github.io/HorizonTechX_Calculator/
+- **Live Demo:** [View Project](https://sajjadursohag.github.io/HorizonTechX_Calculator/)
+- **Source Code:** [GitHub Repository](https://github.com/sajjadursohag/HorizonTechX_Calculator)
 
-### 4. Payoo Mobile App
-A mobile banking interface project focused on interactive UI and JavaScript functionality.
+### 💳 Payoo Mobile App
+A mobile banking interface project demonstrating interactive UI development and JavaScript functionality.
 
-- **Technologies:** HTML, JavaScript, Tailwind CSS
-- **Repository:** https://github.com/sajjadursohag/Payoo_Mobile_App
-- **Live Demo:** https://payoomobileap.netlify.app/
+- **Technologies:** HTML, Tailwind CSS, JavaScript
+- **Live Demo:** [View Project](https://payoomobileap.netlify.app/)
+- **Source Code:** [GitHub Repository](https://github.com/sajjadursohag/Payoo_Mobile_App)
 
-### 5. G3 Architects
-A responsive architecture website built to practice layout design and responsive web development.
+### 🏢 G3 Architects
+A responsive architecture website demonstrating layout design and responsive styling.
 
 - **Technologies:** HTML, CSS
-- **Live Demo:** https://sajjadursohag.github.io/g3-architects-website/
+- **Live Demo:** [View Project](https://sajjadursohag.github.io/g3-architects-website/)
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadursohag&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadursohag&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌱 My Current Focus
-
-- Strengthening JavaScript fundamentals
-- Building responsive React applications
-- Practicing API integration and asynchronous JavaScript
-- Learning backend development with Node.js and Express.js
-- Improving problem-solving skills through real-world projects
+- Strengthening JavaScript fundamentals and problem-solving skills
+- Building reusable components and interactive applications with React
+- Improving state management and API integration
+- Exploring Node.js, Express.js, and MongoDB
+- Learning better Git workflows and software development practices
+- Building projects that reflect real-world requirements
 
 ---
 
-## 🤝 Connect With Me
+## 🎓 Education
 
-- **GitHub:** [sajjadursohag](https://github.com/sajjadursohag)
+**Bachelor of Science in Computer Science & Engineering**
 
-I'm open to learning opportunities, collaboration, and Junior Frontend Developer opportunities.
+State University of Bangladesh | Graduated in 2021
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🎯 Career Goals
+
+- Build reliable, responsive, and maintainable web applications.
+- Strengthen my JavaScript and React.js expertise.
+- Grow into a capable full-stack developer through practical experience.
+- Collaborate with experienced developers and contribute to real-world projects.
+- Start my professional journey as a Junior Frontend Developer.
+
+**Interested in:** Junior Frontend Developer roles, web development internships, and suitable freelance website projects.
+
+---
+
+## 🤝 Let's Connect
+
+- **GitHub:** [@sajjadursohag](https://github.com/sajjadursohag)
+- **Location:** Dhaka, Bangladesh
+
+I'm always interested in learning, collaborating, and building useful web experiences.
+
+<p align="center">
+  <i>"Consistent learning. Practical projects. Continuous improvement."</i>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
