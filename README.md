@@ -1,7 +1,7 @@
 # Hi, I'm Sajjadur Rahman 👋
 
 <p align="center">
-  <img src="./profile.png" alt="Sajjadur Rahman - Profile Picture" width="180" height="180" style="border-radius: 50%;" />
+  <img src="./Sajjadur.jpg" alt="Sajjadur Rahman - Profile Picture" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 <h3 align="center">Junior Frontend Developer | React.js | JavaScript</h3>
